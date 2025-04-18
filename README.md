@@ -55,18 +55,7 @@ python src/visualize.py
 ## 模型评估
 模型在测试集上的评估指标主要包括准确率（Accuracy）、精确率（Precision）、召回率（Recall）和 F1 值（F1 - Score）。这些指标可以帮助我们全面了解模型的性能。
 
-## 结果展示
-### 训练损失曲线
-![Training Loss Curve](images/training_loss.png)
-### 训练准确率曲线
-![Training Accuracy Curve](images/training_accuracy.png)
-### 测试集评估结果
-| 指标 | 值 |
-| ---- | ---- |
-| 准确率 | [具体准确率数值] |
-| 精确率 | [具体精确率数值] |
-| 召回率 | [具体召回率数值] |
-| F1 值 | [具体 F1 值] |
+
 
 ## 贡献与反馈
 如果你对本项目有任何改进建议或发现了 bug，欢迎提交 Issue 或 Pull Request。我们非常欢迎社区的贡献，共同完善这个项目。
